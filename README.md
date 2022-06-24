@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Bhandari</h1>
-<h3 align="center">I am Second year undergraduate from Jaypee Institute of Information Technology, Noida. <br> My major domain of work is <i>Web</i> and <i>cross-platform</i> apps, Apart from this I like to participate in Hackathons.</h3>
+<h3 align="center">I am Third year undergraduate from Jaypee Institute of Information Technology, Noida. <br> My major domain of work is <i>Web</i> and <i>cross-platform</i> apps, Apart from this I like to participate in Hackathons.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
